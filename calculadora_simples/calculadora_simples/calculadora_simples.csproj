@@ -59,17 +59,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -78,6 +79,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bbbaa775-ead1-4f4c-8314-1825869f77d7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\fundo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\fundo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\291e6273-7276-4055-9bb8-5e07ae6d120c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\42fb2f36-a632-40ee-931f-675a4cd82612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\qwerqwer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\delete_clean_recycle_bin_garbage_remove_trash_icon_219358.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\delete_clean_recycle_bin_garbage_remove_trash_icon_219358 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\SignOut_icon-icons.com_74704 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\recycling_recyclebin_empty_delete_trash_1771.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

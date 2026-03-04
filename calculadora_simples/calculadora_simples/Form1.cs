@@ -35,7 +35,7 @@ namespace calculadora_simples
             segundo_digito = Convert.ToInt32(textBox2.Text); //o convert converte qualquer tipo
             resultado = primeiro_digito + segundo_digito;
 
-            label4.Text = "A soma dos numeros " + primeiro_digito.ToString() + " + " + segundo_digito.ToString() + " = " + resultado.ToString() ; //tostring é para converter para string
+            label4.Text = "Soma dos numeros: " + primeiro_digito.ToString() + " + " + segundo_digito.ToString() + " = " + resultado.ToString() ; //tostring é para converter para string
 
             //outras conversoes
 
@@ -57,6 +57,16 @@ namespace calculadora_simples
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void calculadora_Load(object sender, EventArgs e)
         {
 
         }
