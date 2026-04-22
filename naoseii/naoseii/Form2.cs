@@ -32,9 +32,8 @@ namespace naoseii
 
         private void button2_Click(object sender, EventArgs e)
         {
-            DialogResult dialogResult = MessageBox.Show("Tem certeza que deseja sair? ", "ATENção",
-            MessageBoxButtons.YesNo);
-        if (dialogResult == DialogResult.Yes)
+            DialogResult dialogResult = MessageBox.Show("Tem certeza que deseja sair? ", "ATENÇÃO", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.Yes)
             {
                 Application.Exit();
             }

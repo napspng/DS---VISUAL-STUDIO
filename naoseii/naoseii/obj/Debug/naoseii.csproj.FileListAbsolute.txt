@@ -11,3 +11,17 @@ C:\Users\Aluno\source\repos\naoseii\naoseii\bin\Debug\naoseii.exe
 C:\Users\Aluno\source\repos\naoseii\naoseii\bin\Debug\naoseii.pdb
 C:\Users\Aluno\source\repos\naoseii\naoseii\obj\Debug\naoseii.exe
 C:\Users\Aluno\source\repos\naoseii\naoseii\obj\Debug\naoseii.pdb
+C:\Users\Aluno\Desktop\naoseii\naoseii\bin\Debug\naoseii.exe.config
+C:\Users\Aluno\Desktop\naoseii\naoseii\bin\Debug\naoseii.exe
+C:\Users\Aluno\Desktop\naoseii\naoseii\bin\Debug\naoseii.pdb
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.Form1.resources
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.Form2.resources
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.Form3.resources
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.Form4.resources
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.Properties.Resources.resources
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.exe
+C:\Users\Aluno\Desktop\naoseii\naoseii\obj\Debug\naoseii.pdb

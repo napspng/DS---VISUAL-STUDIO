@@ -19,7 +19,39 @@ namespace naoseii
 
         private void desvioCondicionalEncadeadoIfelseIfToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            Form2 form2 = new Form2();
+            form2.FormClosed += (s, arg) => this.Show();
+            this.Hide();
+            form2.Show();
+        }
 
+        private void desvioCondicionalSimplesIfToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            form3.FormClosed += (s, arg) => this.Show();
+            this.Hide();
+            form3.Show();
+        }
+
+        private void desvioCondicionalEncadeadoIfelseIfToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.FormClosed += (s, arg) => this.Show();
+            this.Hide();
+            form4.Show();
+       }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Tem certeza que deseja sair? ", "ATENÇÃO", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            else
+            {
+                //nao faz nada
+            }
         }
     }
 }
